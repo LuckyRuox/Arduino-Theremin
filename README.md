@@ -40,7 +40,7 @@ The **Arduino Theremin** is an electronic musical instrument inspired by the cla
 
 ## Acknowledgments
 
-This project was developed collaboratively by @LuckyRoux and @SalticHash. Special thanks to [SalticHash](https://github.com/SalticHash) for their contributions and collaboration.
+This project was developed collaboratively by @ZenthVale and @SalticHash. Special thanks to [SalticHash](https://github.com/SalticHash) for their contributions and collaboration.
 
 ## License
 
