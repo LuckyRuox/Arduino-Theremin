@@ -31,6 +31,3 @@ float pitch = 0.0;
 NewPing volume_sonar(TRIG_PIN_V, ECHO_PIN_V, MAX_DIST); // The NewPing object for the volume sonar.
 cm dist_V = 0.0; // The current distance of the volume sonar.
 float volume = 0.0;
-
-// Ping Sonar
-cm pingSonar(NewPing sonar); // The definition for the ping sonar function.
